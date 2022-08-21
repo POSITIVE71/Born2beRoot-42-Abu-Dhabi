@@ -1,5 +1,3 @@
-# /usr/share/monitoring.sh #
-
 #!/bin/bash
 arc=$(uname -a) #uname prints basic system information. -a displays all available information
 pcpu=$(grep "physical id" /proc/cpuinfo | sort | uniq | wc -l) #search for the lines "physical id" in /proc/cpuinfo and return them. Then sorts the response, removes the duplicates (uniq), does a count of the lines (wc) and prints the number of lines (-l).
