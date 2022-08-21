@@ -1,4 +1,6 @@
 #!/bin/bash
+PATH='/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin'
+
 arc=$(uname -a) #uname prints basic system information. -a displays all available information
 pcpu=$(grep "physical id" /proc/cpuinfo | sort | uniq | wc -l) #search for the lines "physical id" in /proc/cpuinfo and return them. Then sorts the response, removes the duplicates (uniq), does a count of the lines (wc) and prints the number of lines (-l).
 vcpu=$(grep "^processor" /proc/cpuinfo | wc -l) #look for lines that start with "processor". count the lines and return them.
