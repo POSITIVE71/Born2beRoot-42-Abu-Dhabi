@@ -94,6 +94,8 @@ https://github.com/winash1618/Born2beRoot
 
 https://github.com/pasqualerossi/Born2BeRoot-Guide
 
+https://github.com/hanshazairi/42-born2beroot#1-installation
+
 https://github.com/fidellim/42-Cursus-Project-Born2beRoot/blob/main/guides/born2beroot_debian.md
 
 For Bonus
