@@ -82,19 +82,11 @@ Now new window will pop up with Debian installer menu as shown below, then selec
 
 
 
-For Installing
-
-https://www.youtube.com/watch?v=2w-2MX5QrQw&ab_channel=hanshazairi
-
 Step by Step
 
 https://baigal.medium.com/born2beroot-e6e26dfb50ac
 
-https://github.com/winash1618/Born2beRoot
-
 https://github.com/pasqualerossi/Born2BeRoot-Guide
-
-https://github.com/hanshazairi/42-born2beroot#1-installation
 
 https://github.com/fidellim/42-Cursus-Project-Born2beRoot/blob/main/guides/born2beroot_debian.md
 
